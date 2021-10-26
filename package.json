@@ -1,0 +1,20 @@
+{
+  "name": "note-taker",
+  "version": "1.0.0",
+  "description": "note taker app",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nahid1010/note-taker.git"
+  },
+  "author": "Nahid",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nahid1010/note-taker/issues"
+  },
+  "homepage": "https://github.com/Nahid1010/note-taker#readme"
+}
