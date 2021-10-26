@@ -5,7 +5,7 @@
 The Note Taker application helps user keep track of notes in a list. Users can add or delete notes. Notes are saved in the same browser even after refreshing.
 
 - Code `git@github.com:Nahid1010/note-taker.git`
-- Heroku` `
+- Heroku`https://notetakerappli.herokuapp.com/`
 Installing and running
 
 - Open a terminal.
