@@ -16,5 +16,11 @@
   "bugs": {
     "url": "https://github.com/Nahid1010/note-taker/issues"
   },
-  "homepage": "https://github.com/Nahid1010/note-taker#readme"
+  "homepage": "https://github.com/Nahid1010/note-taker#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "path": "^0.12.7",
+    "uuid": "^8.3.2",
+    "uuidv4": "^6.2.12"
+  }
 }
